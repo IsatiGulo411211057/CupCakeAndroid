@@ -1,0 +1,10 @@
+#Wed May 22 16:49:05 WIB 2024
+base.0=D\:\\ISATI-GULO-ANDROID\\basic-android-kotlin-compose-training-cupcake\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=D\:\\ISATI-GULO-ANDROID\\basic-android-kotlin-compose-training-cupcake\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=D\:\\ISATI-GULO-ANDROID\\basic-android-kotlin-compose-training-cupcake\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\11\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=11/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
